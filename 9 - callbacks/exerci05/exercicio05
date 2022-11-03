@@ -1,0 +1,23 @@
+
+let contagem = 1
+
+
+function microondas(tempo) {
+    console.log("iniciou");
+
+    const contador = () => {
+        console.log(contagem)
+        contagem++
+
+        if (contagem > tempo / 1000) {
+            console.log("finalizou")
+            clearInterval(id);
+        }
+    }
+    const id = setInterval(contador, 1000);
+
+}
+
+
+microondas(10000);
+
