@@ -1,0 +1,14 @@
+[
+    {
+        "cep": "03916-000",
+        "logradouro": "Avenida da Barreira Grande",
+        "complemento": "de 1001/1002 ao fim",
+        "bairro": "Vila Bancária",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    }
+]
